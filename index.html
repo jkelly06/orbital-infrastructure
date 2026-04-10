@@ -1,1 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Compute Node | Principal Orbital Infrastructure</title>
+    <meta name="description" content="Primary repository for the Space Compute Node architecture. Category-defining hardware assets for the off-planet economy.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #050505;
+            --card: #0d0d0f;
+            --accent: #00d1ff;
+            --text: #ffffff;
+            --text-dim: #9ca3af;
+            --border: #1f2937;
+        }
+        body { background-color: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; margin: 0; line-height: 1.6; }
+        .container { max-width: 1100px; margin: 0 auto; padding: 80px 24px; }
+        header { border-bottom: 1px solid var(--border); padding-bottom: 60px; margin-bottom: 60px; }
+        .badge { display: inline-flex; background: rgba(0, 209, 255, 0.1); border: 1px solid var(--accent); color: var(--accent); padding: 6px 14px; border-radius: 100px; font-family: 'Roboto Mono', monospace; font-size: 0.75rem; text-transform: uppercase; margin-bottom: 30px; letter-spacing: 1px; }
+        h1 { font-size: clamp(2.5rem, 7vw, 4.5rem); font-weight: 900; letter-spacing: -3px; line-height: 1; margin: 0 0 24px; }
+        .hero-lead { font-size: 1.3rem; color: var(--text-dim); max-width: 850px; }
+        .section-header { font-family: 'Roboto Mono', monospace; font-size: 0.85rem; color: var(--accent); text-transform: uppercase; letter-spacing: 3px; margin: 80px 0 30px; display: block; border-left: 3px solid var(--accent); padding-left: 15px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
+        .card { background: var(--card); border: 1px solid var(--border); padding: 40px; border-radius: 16px; transition: 0.3s; }
+        .card:hover { border-color: var(--accent); transform: translateY(-4px); }
+        .domain-name { font-family: 'Roboto Mono', monospace; font-size: 1.25rem; font-weight: 700; color: var(--text); margin-bottom: 12px; display: block; }
+        .domain-desc { font-size: 0.9rem; color: var(--text-dim); }
+        
+        /* Formspree Integration */
+        .cta-section { background: linear-gradient(180deg, #0d0d0f 0%, #050505 100%); border: 1px solid var(--border); padding: 80px 40px; border-radius: 24px; margin-top: 100px; text-align: center; }
+        form { max-width: 500px; margin: 40px auto 0; text-align: left; }
+        .form-group { margin-bottom: 20px; }
+        label { display: block; font-family: 'Roboto Mono', monospace; font-size: 0.75rem; color: var(--accent); margin-bottom: 8px; text-transform: uppercase; }
+        input, textarea { width: 100%; background: #1a1a1c; border: 1px solid var(--border); padding: 12px; color: white; border-radius: 8px; font-family: 'Inter', sans-serif; box-sizing: border-box; }
+        input:focus, textarea:focus { border-color: var(--accent); outline: none; }
+        .btn { width: 100%; background: var(--accent); color: black; border: none; padding: 18px; border-radius: 8px; font-weight: 900; font-size: 1rem; cursor: pointer; transition: 0.2s; text-transform: uppercase; letter-spacing: 1px; }
+        .btn:hover { background: white; transform: scale(1.02); }
+        .direct-email { margin-top: 30px; display: block; font-family: 'Roboto Mono', monospace; color: var(--text-dim); text-decoration: none; font-size: 0.9rem; }
 
+        footer { margin-top: 100px; text-align: center; font-family: 'Roboto Mono', monospace; font-size: 0.75rem; color: var(--text-dim); border-top: 1px solid var(--border); padding-top: 40px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="badge">Asset Acquisition Phase // FY2026</div>
+            <h1>Space Compute Node.</h1>
+            <p class="hero-lead">The definitive hardware infrastructure for the orbital cloud. Managing a strategic cluster of assets engineered for high-density AI inference and off-planet hardware sovereignty.</p>
+        </header>
+
+        <span class="section-header">Infrastructure Stack // Hardware & Systems</span>
+        <div class="grid">
+            <div class="card"><span class="domain-name">SpaceComputeCluster.com</span><p class="domain-desc">Multi-satellite virtualized GPU arrays for hyperscale AI training.</p></div>
+            <div class="card"><span class="domain-name">SpaceInferenceNode.com</span><p class="domain-desc">Optimized for edge-AI execution at the orbital edge to minimize latency.</p></div>
+            <div class="card"><span class="domain-name">OrbitalComputeNode.com</span><p class="domain-desc">Industrial standard for aerospace primes and defense infrastructure.</p></div>
+            <div class="card"><span class="domain-name">SpaceComputePlatform.com</span><p class="domain-desc">Orchestration and OS layer running natively on orbital hardware.</p></div>
+            <div class="card"><span class="domain-name">SpaceComputeCampus.com</span><p class="domain-desc">Terrestrial infrastructure hubs bridging ground station clusters.</p></div>
+        </div>
+
+        <section class="cta-section">
+            <h2>Acquisition Inquiry</h2>
+            <p style="color: var(--text-dim);">Serious inquiries only. Enter your credentials to request a prospectus.</p>
+            
+            <form action="https://formspree.io/f/xdaprabp" method="POST">
+                <div class="form-group">
+                    <label>Inquiring Entity</label>
+                    <input type="text" name="company" placeholder="Organization Name" required>
+                </div>
+                <div class="form-group">
+                    <label>Direct Correspondence</label>
+                    <input type="email" name="_replyto" placeholder="executive@company.com" required>
+                </div>
+                <div class="form-group">
+                    <label>Scope of Interest</label>
+                    <textarea name="message" rows="4" placeholder="Comprehensive Portfolio or Tiered Assets?"></textarea>
+                </div>
+                <button type="submit" class="btn">Submit Prospectus Request</button>
+            </form>
+            
+            <a href="mailto:ceall06@proton.me" class="direct-email">Secured Direct Correspondence: ceall06@proton.me</a>
+        </section>
+
+        <footer>© 2026 Space Compute Node Holdings • Secure Transfer via Escrow / Sedo</footer>
+    </div>
+</body>
+</html>
