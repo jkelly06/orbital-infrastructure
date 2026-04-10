@@ -1,37 +1,41 @@
-# Strategic Portfolio: Orbital & Atomic Infrastructure (2026)
+# Portfolio Prospectus: Orbital & Atomic Infrastructure (FY2026)
 
-[![Market Status](https://img.shields.io/badge/Status-Acquisition_Open-00d1ff?style=for-the-badge)](mailto:ceall06@proton.me)
-[![Category](https://img.shields.io/badge/Industry-Space_Compute_%26_SMR-white?style=for-the-badge)](#)
+![Market Intelligence](https://img.shields.io/badge/Market_Status-Acquisition_Active-00d1ff?style=for-the-badge)
+![Sector](https://img.shields.io/badge/Sector-Deep_Tech_Infrastructure-white?style=for-the-badge)
 
-## Executive Summary: The 2026 Infrastructure Pivot
-With the **SpaceX IPO** and the deployment of the first operational **Orbital Data Centers**, the global compute economy has shifted off-planet. This repository hosts the definitive portfolio of digital infrastructure assets required to anchor the next generation of **Inference-at-the-Edge** and **Atomic-powered** data centers.
+## Strategic Market Position: The Orbital Transition
+As of **April 2026**, the convergence of the **SpaceX IPO** and global **Terrestrial Power Constraints** has created a critical demand for off-planet compute capacity. This portfolio represents the primary digital real estate required to anchor the **Orbital Cloud** and **SMR-integrated** data networks.
 
 ## 🛰️ Orbital Compute Stack | Domain Assets
-Category-defining .com assets for the decentralized space-cloud economy.
+*High-authority keywords for the off-planet AI economy.*
 
-* **SpaceComputeCluster.com** - Hyperscale orbital supercomputing and virtualized GPU arrays.
-* **SpaceComputePlatform.com** - Foundational software layer for Orbital OS and workload orchestration.
-* **SpaceComputeNode.com** - The universal commercial descriptor for modular orbital hardware units.
-* **SpaceInferenceNode.com** - High-value asset for edge-AI execution in zero-gravity environments.
-* **OrbitalComputeNode.com** - Technical industrial standard for aerospace primes and SDA-compliant hardware.
+* **SpaceComputeCluster.com** – Targeted for **hyperscale GPU arrays** and distributed orbital supercomputing.
+* **SpaceComputePlatform.com** – The foundational **Orbital OS** and orchestration layer for LEO/MEO constellations.
+* **SpaceComputeNode.com** – The industry standard descriptor for **modular satellite compute hardware**.
+* **SpaceInferenceNode.com** – Premium positioning for **Edge-AI execution** and autonomous orbital intelligence.
+* **OrbitalComputeNode.com** – Industrial-grade branding for **aerospace primes** and SDA-compliant infrastructure.
 
-## ⚛️ Atomic & Baseload Energy | Infrastructure
-The energy backbone required for terrestrial-to-orbital downlinks and hyperscale power.
+## ⚛️ Atomic & Baseload Energy | Energy Link
+*The terrestrial backbone for 24/7 Carbon-Free Energy (CFE) and data-station links.*
 
-* **AtomicBaseload.com** - Premium asset for 24/7 carbon-free (CFE) nuclear power infrastructure.
-* **SMRcampus.com** - Next-gen data center hubs powered by Small Modular Reactors (SMR).
-* **SpaceComputeCampus.com** - The strategic bridge between nuclear energy centers and orbital constellations.
-
-## 📈 SEO & Market Keywords
-`Orbital Data Centers` `Space-Based AI Inference` `Zero-WUE Computing` `SMR Data Centers` `24/7 CFE` `Off-Planet Compute` `SpaceX Infrastructure` `Axiom Space Compute` `Edge AI Hardware` `Orbital OS`
-
-## 🤝 Acquisition & Transfer
-This portfolio is offered for **comprehensive acquisition** or **strategic individual transfer**. We facilitate secure transfers for hyperscalers, VC-backed aerospace startups, and energy conglomerates.
-
-### Contact Information
-**Principal:** jkelly06  
-**Secure Inquiry:** [ceall06@proton.me](mailto:ceall06@proton.me)  
-**Location:** 2026 Global Infrastructure Market  
+* **AtomicBaseload.com** – Definitive branding for **nuclear-powered 24/7 baseload** compute centers.
+* **SMRcampus.com** – The premier asset for **Small Modular Reactor (SMR)** integrated data hubs.
+* **SpaceComputeCampus.com** – The strategic link between **terrestrial energy centers** and orbital downlinks.
 
 ---
-*Disclaimer: This repository serves as a professional prospectus for digital asset holdings. Inquiries will be treated with institutional-grade confidentiality.*
+
+## 🛠 Technical SEO & Search Taxonomy
+This repository and its associated assets are optimized for indexing within the following industrial categories:
+* **Keywords:** `Orbital Data Center Nodes`, `Space-Based Inference`, `SMR Data Center Power`, `Zero-WUE Compute`, `24/7 CFE Infrastructure`, `Space-to-Ground Data Links`, `Agentic Orbital Networks`.
+* **Classification:** `Infrastructure-as-a-Service (IaaS)`, `Deep Tech M&A`, `Strategic Domain Acquisition`.
+
+## 🤝 Acquisition Protocol
+Assets are available for **Comprehensive Portfolio Acquisition** or **Strategic Individual Transfer**. 
+
+### Secure Correspondence
+**Principal:** jkelly06  
+**Inquiries:** [ceall06@proton.me](mailto:ceall06@proton.me)  
+**Confidentiality:** Institutional-grade transfer protocols via Escrow.com or Sedo.
+
+---
+*© 2026 Orbital Infrastructure Holdings. All rights reserved.*
