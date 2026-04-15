@@ -19,7 +19,7 @@ As of **April 2026**, the convergence of the **SpaceX IPO** and global **Terrest
 
 * **AtomicBaseload.com** – Definitive branding for **nuclear-powered 24/7 baseload** compute centers.
 * **SMRcampus.com** – The premier asset for **Small Modular Reactor (SMR)** integrated data hubs.
-* **SpaceComputeCampus.com** – The strategic link between **terrestrial energy centers** and orbital downlinks.
+
 
 ---
 
