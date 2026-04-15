@@ -10,7 +10,6 @@ As of **April 2026**, the convergence of the **SpaceX IPO** and global **Terrest
 *High-authority keywords for the off-planet AI economy.*
 
 * **SpaceComputeCluster.com** – Targeted for **hyperscale GPU arrays** and distributed orbital supercomputing.
-* **SpaceComputePlatform.com** – The foundational **Orbital OS** and orchestration layer for LEO/MEO constellations.
 * **SpaceComputeNode.com** – The industry standard descriptor for **modular satellite compute hardware**.
 * **SpaceInferenceNode.com** – Premium positioning for **Edge-AI execution** and autonomous orbital intelligence.
 * **OrbitalComputeNode.com** – Industrial-grade branding for **aerospace primes** and SDA-compliant infrastructure.
